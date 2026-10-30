@@ -7,6 +7,6 @@ enum LabSettings {
     static let accentColor: Color = .orange
 
     // EXTRA 1: activa esta opción solamente después del recorrido principal.
-    static let usesPersistence = false
+    static let usesPersistence = true
 }
 
